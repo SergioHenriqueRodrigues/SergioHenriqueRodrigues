@@ -10,7 +10,7 @@
   <img align="center" alt="Sergio-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 	<img align="center" alt="Sergio-Tailwind" height="30" width="40" src="https://static-00.iconduck.com/assets.00/tailwind-css-icon-2048x1229-u8dzt4uh.png">
   <img align="center" alt="Sergio-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-	<img align="center" alt="Sergio-Js" height="30" width="40" src="https://br.vuejs.org/images/logo.png">
+	<img align="center" alt="Sergio-Js" height="30" width="40" src="https://static-00.iconduck.com/assets.00/vue-icon-2048x1766-ntogpmti.png">
 </div>
   
   ## Minhas redes sociais.
