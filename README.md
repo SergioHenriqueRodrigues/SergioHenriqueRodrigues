@@ -1,6 +1,6 @@
 ## Eae! Eu me chamo Sérgio.
 
-- 👨‍🎓 Sou um estudante de Sistemas de Informação
+- 👨‍🎓 Bacharel em Sistemas de Informação
 - 👨‍💻 Pretendo ser Dev front-end
 - 📚 Estudando JavaScript
 
