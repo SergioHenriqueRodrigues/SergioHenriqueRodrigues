@@ -1,7 +1,7 @@
 ## Eae! Eu me chamo Sérgio.
 
 - 👨‍🎓 Bacharel em Sistemas de Informação
-- 👨‍💻 Pretendo ser Dev front-end
+- 👨‍💻 Front-end Developer
 - 📚 Estudando JavaScript
 
 ## My Skills.
