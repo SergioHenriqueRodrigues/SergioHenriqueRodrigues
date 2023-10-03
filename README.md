@@ -3,7 +3,7 @@
 <div align="left">
   <p>- 👨‍🎓 Bachelor in Information Systems</p>
   <p>- 👨‍💻 Front-end Developer</p>
-  <p>- 📚 Learning JavaScript</p>
+  <p>- 📚 Learning JavaScript/Vue</p>
 </div>
 
 <h1 align="center">My Skills.</h1>
