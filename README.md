@@ -4,13 +4,12 @@
 <div align="center">
 	<p>- 👨‍🎓 Bachelor in Information Systems</p>
 	<p>- 👨‍💻 Front-end Developer</p>
-	<p>- 📚 Learning JavaScript/Vue</p>
 </div>
 
 <h1 align="center">My Skills</h1>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js"/>
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,vue"/>
   </a>
 </p>
 
