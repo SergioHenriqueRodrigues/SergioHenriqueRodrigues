@@ -1,6 +1,6 @@
 <img align="right" alt="Gif" width="400" src="https://x-team.com/static/radio-c55da1677fe1e4afc3322ad88ce6bdaa.gif">
 
-<h1 align="center">Yo! I'm Sérgio.</h1>
+<h1 align="center">Yo, it's a me, Sérgio!</h1>
 <div align="center">
 	<p>- 👨‍🎓 Bachelor in Information Systems</p>
 	<p>- 👨‍💻 Front-end Developer</p>
