@@ -1,18 +1,18 @@
-<img align="right" alt="Gif" width="400" src="https://x-team.com/static/radio-c55da1677fe1e4afc3322ad88ce6bdaa.gif">
+<img align="right" alt="Gif" width="400" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/06bc60cf-6baa-4c21-8a37-4331fdc2c597/dgnydj7-aea03a9d-f275-44a9-9095-9424d65674e8.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzA2YmM2MGNmLTZiYWEtNGMyMS04YTM3LTQzMzFmZGMyYzU5N1wvZGdueWRqNy1hZWEwM2E5ZC1mMjc1LTQ0YTktOTA5NS05NDI0ZDY1Njc0ZTguZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.Vrg_jWToGyD6VrkC9xC20q4OVuzAsm2Yk_cUgEWpfAY">
 
 <h1 align="center">Yo, it's a me, Sérgio!</h1>
 <div align="center">
 	<p>- 👨‍🎓 Bachelor in Information Systems</p>
 	<p>- 👨‍💻 Front-end Developer</p>
 </div>
-
+<br/>
 <h1 align="center">My Skills</h1>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,vue"/>
   </a>
 </p>
-
+<br/>
 <h1 align="center">My social networks.</h1>
 <div align="center">   
 	<a href="https://instagram.com/sergiohenrique.rr" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
