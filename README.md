@@ -9,7 +9,9 @@
 <h1 align="center">My Skills</h1>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,js,vue,nuxt,react,next,typescript,git"/>
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js"/>
+	<br/>
+    <img src="https://skillicons.dev/icons?i=vue,nuxt,react,next,typescript,git"/>
   </a>
 </p>
 <br/>
