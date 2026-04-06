@@ -3,7 +3,8 @@
 <h1 align="center">Yo, it's a me, Sérgio!</h1>
 <div align="center">
 	<p>- 👨‍🎓 Bachelor in Information Systems</p>
-	<p>- 👨‍💻 Front-end Developer</p>
+	<p>- 👨‍💻 Systems Analyst at Welcome the Future</p>
+	<p>- 📈 Currently studying Dotnet and C#</p>
 </div>
 <br/>
 <h1 align="center">My Skills</h1>
