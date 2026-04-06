@@ -4,7 +4,7 @@
 <div align="center">
 	👨‍💻 Systems Analyst at Welcome the Future <br/>
 	👨‍🎓 Bachelor in Information Systems <br/>
-	📚 Currently studying Dotnet and C# <br/>
+	📚 Currently studying .NET and C# <br/>
 	🔄 Daily study of new technologies js
 	
 </div>
