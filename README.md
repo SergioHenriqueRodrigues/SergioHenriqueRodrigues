@@ -12,7 +12,7 @@
 
 - 🧑‍💻 **Systems Analyst** at **Welcome the Future**
 - 🎓 Bachelor's Degree in **Information Systems**
-- 📚 Currently diving deep into **JAVA**
+- 📚 Currently diving deep into **NodeJS**
 - 🔄 Constantly learning new JavaScript technologies
 
 ---
